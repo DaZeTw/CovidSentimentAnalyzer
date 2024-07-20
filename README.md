@@ -56,7 +56,7 @@ python covidsentimentanalyzer.py
 
 ### Google Colab Notebook
 
-For an interactive version of this project, you can view and run the code in Google Colab: [Google Colab Notebook](https://drive.google.com/file/d/1ipe0sIj-niigV3_-V7rj5iWGKxlDg-UT/view?usp=sharing)
+For an interactive version of this project, you can view and run the code in Google Colab: [Google Colab Notebook](https://colab.research.google.com/drive/1tWpVgQlKs9bZ6MGfzmsqij_UTZmF0QwA?usp=sharing)
 
 ## Results
 
