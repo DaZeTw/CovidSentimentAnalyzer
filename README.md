@@ -58,27 +58,6 @@ python covidsentimentanalyzer.py
 
 For an interactive version of this project, you can view and run the code in Google Colab: [Google Colab Notebook](https://colab.research.google.com/drive/1tWpVgQlKs9bZ6MGfzmsqij_UTZmF0QwA?usp=sharing)
 
-## Results
-
-### Sentiment Analysis Metrics
-
-- Accuracy: Measures the percentage of correctly predicted sentiments.
-- Precision: Measures the accuracy of positive predictions.
-- Recall: Measures the ability to find all relevant instances.
-- F1 Score: Harmonic mean of precision and recall.
-
-### Evaluation Results
-
-- Logistic Regression: Achieved an accuracy of 85%, precision of 83%, recall of 84%, and F1 score of 83%.
-- Naive Bayes: Achieved an accuracy of 82%, precision of 80%, recall of 81%, and F1 score of 80%.
-- Support Vector Machine: Achieved an accuracy of 86%, precision of 84%, recall of 85%, and F1 score of 84%.
-
-### Visualizations
-
-- Sentiment distribution of tweets over time.
-- Word clouds for positive and negative sentiments.
-- Confusion matrices for model evaluations.
-
 ## Conclusion
 
 The COVID-19 Sentiment Analyzer successfully demonstrates the application of machine learning techniques to understand public sentiment during the pandemic. The results indicate that the models used can effectively classify sentiments with high accuracy. Logistic Regression and Support Vector Machine models performed particularly well, providing valuable insights into public opinion. Future work could focus on improving preprocessing techniques, exploring deep learning models, and applying the analysis to other social media platforms for a more comprehensive understanding.
